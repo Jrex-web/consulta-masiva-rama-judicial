@@ -1,0 +1,30 @@
+# Entornos virtuales de Python
+venv/
+.venv/
+env/
+
+# Compilaciones y ejecutables pesados de PyInstaller
+build/
+dist/
+dist_windowed/
+*.spec
+*.zip
+*.exe
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos generados por el usuario o pruebas locales
+*.xlsx
+*.csv
+*.mp4
+*.mp3
+
+# Configuración local de VS Code
+.vscode/
+
+# Archivos de prueba
+veryfik.py
+scraper.py
